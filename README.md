@@ -19,6 +19,7 @@
 </ul>
 
 ### Libre hardware monitor
+https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 <p>Libre hardware monitor can be found on GitHub. It is written on C# and JavaScript.<br>
   I really want to write the same program but with C or C++ or Rust.</p>
 <p>Current output is divided by semicolon and has 'E' character as the last character of the data serie.<br>
