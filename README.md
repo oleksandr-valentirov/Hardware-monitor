@@ -1,4 +1,7 @@
 # Hardware monitor
+
+<img src="https://github.com/Aleks0010V/Hardware-monitor/blob/master/image.png">
+
 <p>Libre hardware monitor - open-source software, which gathers data from sensors on your motherboard, CPU, GPU, etc<br>
   and sends it to the local web-server or COM port</p>
 <p>Hardware monitor - code for PIC16F18875 which receives tis data from COM port with UART,<br>
